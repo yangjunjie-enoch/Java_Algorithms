@@ -5,7 +5,7 @@ package com.thealgorithms.sorts;
  * @author Podshivalov Nikita (https://github.com/nikitap492)
  * @see SortAlgorithm
  */
-class BubbleSort implements SortAlgorithm {
+public class BubbleSort implements SortAlgorithm {
 
     /**
      * Implements generic bubble sort algorithm.
